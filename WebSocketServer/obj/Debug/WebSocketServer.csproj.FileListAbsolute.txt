@@ -1,0 +1,6 @@
+C:\Users\Michéle\Desktop\WebSocketDemo\WebSocketServer\bin\Debug\WebSocketServer.exe
+C:\Users\Michéle\Desktop\WebSocketDemo\WebSocketServer\bin\Debug\WebSocketServer.pdb
+C:\Users\Michéle\Desktop\WebSocketDemo\WebSocketServer\bin\Debug\Alchemy.dll
+C:\Users\Michéle\Desktop\WebSocketDemo\WebSocketServer\obj\Debug\WebSocketServer.csprojResolveAssemblyReference.cache
+C:\Users\Michéle\Desktop\WebSocketDemo\WebSocketServer\obj\Debug\WebSocketServer.exe
+C:\Users\Michéle\Desktop\WebSocketDemo\WebSocketServer\obj\Debug\WebSocketServer.pdb

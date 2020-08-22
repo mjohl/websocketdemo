@@ -1,0 +1,6 @@
+C:\Users\Michéle\Desktop\WebSocketDemo\WebSocketClient\bin\WebSocketClient.dll.config
+C:\Users\Michéle\Desktop\WebSocketDemo\WebSocketClient\bin\WebSocketClient.dll
+C:\Users\Michéle\Desktop\WebSocketDemo\WebSocketClient\bin\WebSocketClient.pdb
+C:\Users\Michéle\Desktop\WebSocketDemo\WebSocketClient\obj\Debug\WebSocketClient.csprojResolveAssemblyReference.cache
+C:\Users\Michéle\Desktop\WebSocketDemo\WebSocketClient\obj\Debug\WebSocketClient.dll
+C:\Users\Michéle\Desktop\WebSocketDemo\WebSocketClient\obj\Debug\WebSocketClient.pdb
